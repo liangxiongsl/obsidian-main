@@ -1,0 +1,22 @@
+{
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "livePreview": false,
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "rightToLeft": false,
+  "useTab": false,
+  "focusNewTab": true,
+  "smartIndentList": true
+}

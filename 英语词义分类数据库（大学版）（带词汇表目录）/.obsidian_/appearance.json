@@ -1,0 +1,16 @@
+{
+  "baseFontSize": 15,
+  "theme": "moonstone",
+  "translucency": false,
+  "accentColor": "#8c7ed3",
+  "nativeMenus": true,
+  "showViewHeader": true,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "checkbox",
+    "tag-pills",
+    "custom-admonitions.25eac6",
+    "clutter-free-headings",
+    "notation-colour-blocks"
+  ]
+}

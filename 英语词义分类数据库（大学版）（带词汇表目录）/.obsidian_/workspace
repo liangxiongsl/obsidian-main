@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "fc5a8e95817cbf4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a56d832d6ec320b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "sd.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b49744f04f6e6e51",
+    "type": "split",
+    "children": [
+      {
+        "id": "3141e8e358fe6eec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f31dbb66b64c4885",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac1bf7eb398dc9ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247
+  },
+  "right": {
+    "id": "654ac5c59a121f7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "04bd96cea7baa944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03ba228a9db7ca7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sd.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3a56d832d6ec320b",
+  "lastOpenFiles": [
+    "sd.md",
+    "考研/sd.md",
+    "defaut_vault/Untitled.md",
+    "Untitled.md"
+  ]
+}

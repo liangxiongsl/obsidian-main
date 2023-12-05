@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1701521268782,
+      "path": "考研/数学"
+    },
+    {
+      "type": "folder",
+      "ctime": 1701521312821,
+      "path": "考研/数据结构"
+    },
+    {
+      "type": "folder",
+      "ctime": 1701521328205,
+      "path": "考研/英语"
+    },
+    {
+      "type": "folder",
+      "ctime": 1701521331923,
+      "path": "考研/政治"
+    },
+    {
+      "type": "group",
+      "ctime": 1701670871959,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1701670865821,
+          "path": "考研/英语/phrase.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1701670865821,
+          "path": "考研/英语/words.md"
+        }
+      ],
+      "title": "dict(词典)"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"daac8ba4c97fcb36","type":"text","text":"歌姬\n","x":276,"y":50,"width":250,"height":60},
+		{"id":"e4eddd41ba5f7b9c","type":"text","text":"6","x":800,"y":50,"width":250,"height":60},
+		{"id":"b08edaaef2488c5b","type":"text","text":"6呗","x":576,"y":163,"width":250,"height":60},
+		{"id":"2e217a98580ba941","type":"text","text":"寄吧\n\n\n","x":176,"y":-380,"width":200,"height":60},
+		{"id":"887f0708adde9d16","type":"text","text":"\n  \n# 在 [app]/models.py 下创建模型类，如 MyModel  \n  \n# 迁移数据库  \npython m","x":232,"y":-120,"width":488,"height":343},
+		{"id":"b11dc556957e1be3","type":"text","text":"好","x":526,"y":-59,"width":224,"height":60},
+		{"id":"7ab0d645d02a5475","type":"file","file":"毕设(音乐播放器)/音乐播放器/Django简单例子.md","x":-260,"y":-288,"width":400,"height":340},
+		{"id":"952a7d54792b31b9","type":"file","file":"default_vault/chatgpt.md","x":501,"y":-488,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"919e8b968f3d75db","fromNode":"b11dc556957e1be3","fromSide":"right","toNode":"e4eddd41ba5f7b9c","toSide":"left"},
+		{"id":"7453947e1839de81","fromNode":"daac8ba4c97fcb36","fromSide":"right","toNode":"b11dc556957e1be3","toSide":"bottom"},
+		{"id":"60152f36b2ee46b2","fromNode":"2e217a98580ba941","fromSide":"right","toNode":"daac8ba4c97fcb36","toSide":"top"},
+		{"id":"dfd8006ba17a81f9","fromNode":"e4eddd41ba5f7b9c","fromSide":"bottom","toNode":"b08edaaef2488c5b","toSide":"right"},
+		{"id":"c9046557b9702786","fromNode":"b08edaaef2488c5b","fromSide":"left","toNode":"daac8ba4c97fcb36","toSide":"bottom"},
+		{"id":"ad44b9329da27cce","fromNode":"2e217a98580ba941","fromSide":"left","toNode":"7ab0d645d02a5475","toSide":"top"},
+		{"id":"8e9fec2b97ac445c","fromNode":"7ab0d645d02a5475","fromSide":"right","toNode":"daac8ba4c97fcb36","toSide":"left"},
+		{"id":"84335700c9a83c50","fromNode":"2e217a98580ba941","fromSide":"right","toNode":"952a7d54792b31b9","toSide":"left"}
+	]
+}
