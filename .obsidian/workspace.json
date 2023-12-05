@@ -32,25 +32,27 @@
             }
           },
           {
-            "id": "c01458992d82dbdd",
+            "id": "48846af6de95fddc",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://kkgithub.com"
+                "url": "https://music.api.com"
               }
             }
           },
           {
-            "id": "862ca76dee951372",
+            "id": "70a3357c8fa1a8ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "surfing-view",
+              "state": {
+                "url": "https://music.163.com/"
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,7 +241,7 @@
       }
     ]
   },
-  "active": "862ca76dee951372",
+  "active": "48846af6de95fddc",
   "lastOpenFiles": [
     "考研/数据结构/数据结构.md",
     "灵感.md",
