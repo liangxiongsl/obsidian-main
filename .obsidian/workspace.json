@@ -30,9 +30,27 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c01458992d82dbdd",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://kkgithub.com"
+              }
+            }
+          },
+          {
+            "id": "862ca76dee951372",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "考研/数据结构/数据结构.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研/数据结构/数据结构.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +164,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研/数据结构/数据结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,11 +239,11 @@
       }
     ]
   },
-  "active": "038c0a065e00f7b1",
+  "active": "862ca76dee951372",
   "lastOpenFiles": [
+    "考研/数据结构/数据结构.md",
     "灵感.md",
     "docs/github.md",
-    "考研/数据结构/数据结构.md",
     "考研/数据结构/数据结构1.md",
     "考研/数据结构/assets.md",
     "assets/数据结构.pdf",
