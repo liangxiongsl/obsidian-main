@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "github",
-      "path": "docs/github.md"
-    },
-    {
       "basename": "数据结构",
       "path": "考研/数据结构/数据结构.md"
+    },
+    {
+      "basename": "灵感",
+      "path": "灵感.md"
+    },
+    {
+      "basename": "github",
+      "path": "docs/github.md"
     },
     {
       "basename": "数据结构1",
@@ -15,10 +19,6 @@
     {
       "basename": "assets",
       "path": "考研/数据结构/assets.md"
-    },
-    {
-      "basename": "灵感",
-      "path": "灵感.md"
     },
     {
       "basename": "02种类 类别",

@@ -47,15 +47,10 @@ git config --global user.email "1506218507@qq.com"
 # 首先用 github 的客户端或web端创建一个仓库 repo
 
 git init
-
 git add .
-
 git commit -m "first commit"
-
 git branch -M main
-
 git remote add origin https://github.com/liangxiongsl/repo.git
-
 git push origin main
 ```
 注：一般不直接提供超过 100m 的文件上传

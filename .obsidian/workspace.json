@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/github.md",
+                "file": "灵感.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "06218d67338857aa",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/github.md"
+                "file": "考研/数据结构/数据结构.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/github.md",
+                "file": "考研/数据结构/数据结构.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/github.md",
+                "file": "考研/数据结构/数据结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 372.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,24 +216,24 @@
           }
         ],
         "direction": "vertical",
-        "x": 624,
-        "y": 44,
-        "width": 1224,
-        "height": 766,
+        "x": 482,
+        "y": 56,
+        "width": 1230,
+        "height": 666,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e9258e51b1655502",
+  "active": "038c0a065e00f7b1",
   "lastOpenFiles": [
-    "考研/数据结构/数据结构.md",
+    "灵感.md",
     "docs/github.md",
+    "考研/数据结构/数据结构.md",
     "考研/数据结构/数据结构1.md",
     "考研/数据结构/assets.md",
     "assets/数据结构.pdf",
     "assets/数据结构.pdf - 快捷方式.lnk",
-    "灵感.md",
     "英语词义分类数据库（大学版）（带词汇表目录）/28秩序/02种类 类别.md",
     "考研/数据结构1.md",
     "考研/数据结构.md",
