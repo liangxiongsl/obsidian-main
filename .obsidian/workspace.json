@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "灵感.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "灵感.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -168,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "灵感.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +240,7 @@
       }
     ]
   },
-  "active": "e9258e51b1655502",
+  "active": "48846af6de95fddc",
   "lastOpenFiles": [
     "灵感.md",
     "考研/数据结构/数据结构.md",
