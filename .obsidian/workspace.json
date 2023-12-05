@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "48846af6de95fddc",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://kkgithub.com/liangxiongsl/obsidian-main/blob/main/%E7%81%B5%E6%84%9F.md?plain=1"
+              }
+            }
+          },
+          {
             "id": "038c0a065e00f7b1",
             "type": "leaf",
             "state": {
@@ -28,16 +38,6 @@
                 "file": "考研/数据结构/数据结构.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "48846af6de95fddc",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://kkgithub.com/liangxiongsl/obsidian-main"
               }
             }
           },
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,8 +242,8 @@
   },
   "active": "48846af6de95fddc",
   "lastOpenFiles": [
-    "考研/数据结构/数据结构.md",
     "灵感.md",
+    "考研/数据结构/数据结构.md",
     "docs/github.md",
     "考研/数据结构/数据结构1.md",
     "考研/数据结构/assets.md",
